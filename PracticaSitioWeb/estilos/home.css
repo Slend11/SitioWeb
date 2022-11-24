@@ -1,0 +1,146 @@
+body{
+   background-image: url(../imagenes/fondo1.png);
+   background-color: white;
+}
+
+.sw{
+    width: 165px;
+    height: 75px;
+}
+.log{
+    width: 170px;
+    position: relative;
+}
+
+header nav{
+    width: auto;
+    margin-top: -65px;
+    margin-left: 120px;
+    float: left;
+}
+
+.barrah a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 11px;
+    width: 12cm;
+    
+}
+
+.barrah a:link{
+    color: rgb(255, 255, 255);
+}
+
+.barrah a :visited{
+    color: rgb(61, 111, 197);
+}
+
+.barrah a:hover{
+    background-color: rgb(50, 110, 132);
+    color: rgb(239, 227, 58);
+}
+
+
+footer{
+    display: block;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: yellow;
+    clear: both;
+    
+}
+
+footer a:link{
+    color: rgb(79, 130, 218);
+}
+
+footer a :visited{
+    color: white;
+    
+}
+
+
+.dg{
+    width: 120px;
+    height: 125px;
+}
+
+.post{
+    width: 650px;
+    height: 300px;
+}
+
+.ban{
+    margin-left: 110px;
+    width: 1100px;
+    height: 127px;
+}
+
+
+
+.barraV{
+    position: relative;
+    list-style: none;
+    padding: 0;
+    width: 3cm;
+    margin: auto;
+    float: left;
+}
+
+.barraV a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 11px;
+    display: block;
+}
+
+.barraV li {
+    display: block;
+    text-align: left;
+
+}
+
+.barraV a:link{
+    color: rgb(255, 255, 255);
+}
+
+.barraV a :visited{
+    color: rgb(61, 111, 197);
+}
+
+.barraV a:hover{
+    background-color: rgb(109, 106, 106);
+    color: rgb(56, 164, 210);
+}
+
+img[class^="arm"]{
+    width: 230px;
+    height: 150px;
+}
+
+.sug{
+    display: block;
+    float: left;
+    width: 210px;
+    margin-left: 30%;
+    
+}
+
+.vids{
+    margin-left: 22%;
+    text-align: center;
+}
+
+td a{
+    color: yellow;
+    text-decoration: none;
+}
+
+td a:hover{
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+    display: block;
+}
+

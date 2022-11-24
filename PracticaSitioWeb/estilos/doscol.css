@@ -1,0 +1,42 @@
+.col1{
+    width: 50%;
+    display: block;
+    position: relative;
+    float: right;
+    margin-top: -2%;
+    content: "";
+}
+
+.inf1{
+width: 50%;
+display: block;
+position: relative;
+float: left;
+content: "";
+}
+
+.c1{
+    text-align: center;
+}
+
+.cjan{
+    width: 30%;
+    display: block;
+    position: relative;
+    float: right;
+    margin-top: -2%;
+    content: "";
+}
+
+.carm{
+    width: 40%;
+display: block;
+position: relative;
+float: left;
+content: ""
+}
+
+img[class^="cimg"]{
+    width: 200px;
+    height: 150px;
+}

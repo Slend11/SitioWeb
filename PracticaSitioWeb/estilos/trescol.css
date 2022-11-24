@@ -1,0 +1,41 @@
+section[class^="s"]{
+    position: relative;
+    display: block;
+    float: left;
+    width: 70%;
+}
+
+aside[class^="a"]{
+    position: relative;
+    display: block;
+    float: right;
+    width: 30%;
+    margin-block: -19% 8%;
+    margin-right: -31%;
+}
+
+audio[class^="aud"]{
+    margin-top: 2%;
+}
+
+img[class^="ig"]{
+    width: 200px;
+    height: 200px;
+}
+
+p[class^="bio"]{
+    padding-left: 29%;
+    margin-top:-20%;
+}
+
+
+.back{
+    display: block;
+    clear: both;
+    margin-left: 45%;
+}
+
+.back .btni{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
